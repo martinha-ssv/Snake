@@ -1,0 +1,4 @@
+/Users/martavasconcelos/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Release/net5.0/publish/Snake.dll
+/Users/martavasconcelos/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Release/net5.0/publish/Snake.deps.json
+/Users/martavasconcelos/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Release/net5.0/publish/Snake.runtimeconfig.json
+/Users/martavasconcelos/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Release/net5.0/publish/Snake.pdb

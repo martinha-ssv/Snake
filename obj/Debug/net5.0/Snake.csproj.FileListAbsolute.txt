@@ -10,7 +10,6 @@
 /Users/martavasconcelos/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.pdb
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake.dll
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake.pdb
-/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.csproj.AssemblyReference.cache
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.AssemblyInfoInputs.cache
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.AssemblyInfo.cs
@@ -19,3 +18,9 @@
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.pdb
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake
 /Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/refint/Snake.dll
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake.deps.json
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake.runtimeconfig.json
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/bin/Debug/net5.0/Snake.runtimeconfig.dev.json
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.sourcelink.json
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/Snake.genruntimeconfig.cache
+/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/Debug/net5.0/ref/Snake.dll

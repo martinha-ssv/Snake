@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "/Users/martavasconcelos/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
+      "projectUniqueName": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
+      "projectPath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
       "packagesPath": "/Users/martavasconcelos/.nuget/packages/",
-      "outputPath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/",
+      "outputPath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/martavasconcelos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -38,33 +38,34 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[5.0.17, 5.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

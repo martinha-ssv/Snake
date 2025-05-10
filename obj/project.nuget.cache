@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMav6+KQY/nP5PBfoeN8dmv2NPXGrZdOT5kh2UOOrm8iayK/8p4IG7j5xBvbfXfCuNaMUnkMl5BeS+lxay3ixQ==",
+  "dgSpecHash": "axJh+KE/fKY=",
   "success": true,
-  "projectFilePath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
-  "expectedPackageFiles": [
-    "/Users/martavasconcelos/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/martavasconcelos/Documents/Pessoal/Projetos e atividades/Programação/Snake/Snake.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
